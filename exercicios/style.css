@@ -4,7 +4,8 @@ body {
 }
 
 main {
-    background-color: white;
+    background-color: black;
+    color: white;
     width: 500px;
     padding: 20px;
     margin: auto;
@@ -31,7 +32,7 @@ aside {
 }
 
 aside img {
-    width: 60px; 
+    width: 65px; 
     display: block; 
     float: left;
     margin-right: 10px;
